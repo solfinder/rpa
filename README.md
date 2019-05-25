@@ -10,3 +10,5 @@ Steps for execution:
 4) Run the SBGenerator.xaml sequence from UIPath.
 5) On successful run you will have shipping bills generated in EDI format as <billindex>.sb files . These files contain electronic shipping bills which can be uploaded to customs department websote for export cleranace.
 6) Two sample bills 0.sb and 1.sb are uploaded for reference.
+
+Video: https://youtu.be/0j-JTfZlXw4
